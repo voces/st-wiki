@@ -1,0 +1,14 @@
+# Wolf Gameplay
+
+'''Wolves''' must capture all the sheep in the pen before the timer runs out. The wolves must destroy farms in order to reach the sheep. The wolves must attack the sheeps to gather them in the pen. These wolves must also guard the pen from the other sheeps because the sheeps will try to revive their comrades. The wolves also have their own vast array of items and techniques to capture all the sheep.
+
+==Abilities==
+'''Mirror Image''' - Similar to golem jumping, wolves can use the mirror image ability to jump over walls or farms if positioned correctly and if space permits.
+
+'''Wards''' - Wolves can use wards at the cost of mana to provide sight to an area of the map. Wolves typically place one by the pen so that they can spot when a sheep is trying to save a spirit. Also, wards can see invisible farms and invisible sheeps.
+
+==Summonable Items==
+'''Golem Jumping''' Wolves can purchase golems at a shop and use them to assist the wolves in their attempt to capture the sheeps. However, the golems are also useful in another way. If the wolf is in positioned close to a farm or a wall, the wolf can summon the golem on the other side of the farm or wall if space permits. Golem jumping is useful because it may catch the sheep by surprise and capture it.
+
+'''Tree Bomber''' - Wolves also may purchase tree bombers, which can destroy trees that sheeps may try to hide in. This item allows wolves to catch the sheeps if they are hiding or running around.
+[[Category:Gameplay]]

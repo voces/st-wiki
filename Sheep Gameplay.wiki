@@ -1,0 +1,16 @@
+# Sheep Gameplay
+
+'''Sheeps''' build different farms to avoid being tagged by wolves. Sheeps have an a vast arsenal of different kinds of farms to avoid wolves. These types of farms vary from game to game, but typically, each sheep has a normal farm that is used as the primary structure to build a defense. These farms can be built in different patterns and can be used in different scenarios to maximize the efficiency of the effectiveness of a defense. When a sheep is captured by a wolf, they are immediately sent to the pen as a sheep spirit. If all sheep are tagged before the time limit, then sheeps lose. If the sheeps can outlast the wolves in the twenty minutes, then sheeps win.
+
+==Grid build==
+'''Map Grid''' is the standard build that was originally intended in the first maps of sheep tag. This method is the most simple building technique for tournament play. This method has also become the primary strategy over the last two years with the development of stronger wolves. The reason is that this method creates a more reinforced defense.
+
+'''Diamonding''' is building in the farms in the shape of diamonds to cover more area faster, while still having similar protection from farms. This method was first developed by Kareya and was the primary strategy for sheep until newer sheep tag versions emphasized faster sheeps and stronger wolves. It is usually countered by image and golem jumping, and shepherds that have a combination of different Claws of Attack that allow them to destroy regular farms in a single attack.
+
+==Run Tag==
+
+'''Run Tag''' is another way sheeps can build farms to evade wolves. Sheeps can place farms near hills, corners, or by trees to block a wolf. The most effective way to run tag is to build the farm right behind you while you are running from a wolf. This allows sheeps to be on opposite sides of a wolf while being chased. Thus, the sheep has extra time to run around on the map.
+
+==Saving==
+'''Saving''' is when a sheep revives a sheep spirit by reaching the pen and attacking the sheep spirit until the hp is 0. This usually involves sheep leaving their defensive base to run to the pen. This must be done discretely to avoid being attacked by the wolf. If a sheep is successful at saving a sheep spirit, the sheep spirit is revived as a sheep and can participate in the sheep tag battle once again.
+[[Category:Gameplay]]

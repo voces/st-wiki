@@ -1,0 +1,185 @@
+# Home
+
+{{infobox
+|Box title    = Sheep Tag
+|image        = Image:119488.jpg‎
+|imagewidth   = 250
+|caption      = Sheep Tag ReVoLuTiOn
+|Row 1 title  = Author
+|Row 1 info   = Gosusheep & Chakra
+|Row 2 title  = Version
+|Row 2 info   = 6.8.4
+|Row 3 title  = Website
+|Row 3 info   = http://sheeptag.createaforum.com/
+}}
+*'''Sheep Tag''' is a custom scenario game for ''Warcraft III: The Frozen Throne'', which involves two teams, the sheep and the shepherds(wolves), competing against the other in a battle. This game was originally developed by Team [MD], and expanded upon when US East username Star joined.<sup>[1]</sup> Since his time, the sheep tag custom game has evolved into different variations including tournament maps, party maps, and casual game maps.
+
+Sheep Tag is a popular game in the US West, US East, and European servers and has existed in these servers since 2002. Since then, there have been numerous clan wars, tournaments, and even two World Cups in 2006 and 2007. Sheep Tag is usually played on battle.net servers, GGC clients, or using virtual LAN programs such as pickup list.checker or Hamachi. In recent years, due to the decline of Warcraft III's activity in general and the incline of GHost Bots (hosting bots), most Sheep Tag games are played on Battle.net.
+
+
+
+'''For a list of Warcraft III usernames that were popular Sheep Taggers, [https://docs.google.com/spreadsheets/d/1B1tYee_V8T_ie0HLPBrv_CFunacvqTQ9JaQ8IgyljrA/edit?usp=sharing click here].'''
+
+'''For a list of Warcraft III Sheep Tag clans from all time, [http://sheeptag.wikia.com/wiki/List_of_Sheeptag_Clans click here].'''
+
+
+
+
+
+== History ==
+The first maps were developed by [Star] and Team [MD]. In the early games of sheep tag, the main map used was Sheep Tag 7.1 and Sheep Tag 7.5. Sheep Tag 7.1 soon became the dominant map in US West. After Star stopped producing maps, Arxon Havenloft, UberSheep, and Mitnek began making maps based on Sheep Tag 7.1, which became the popular maps of the time. In Europe, the two main maps were the Sheep Tag Behh maps made by Sephiroth[Behh] and the Sheep Tag Wes maps created by wespering.man. After a period of time, GosuSheep began to create maps specifically for The Frozen Throne, which became the dominant maps while zeroshadow1 and drewisfat made maps that became popular on Reign of Chaos. As of now, most players on Battle.net play Sheep Tag ReVoLuTiOn by GosuSheep.
+
+Sheeps try to avoid being caught by wolves for 20 minutes, or 10 minutes on some newer maps. Wolves must kill all sheeps within 20 minutes to win. Sheeps can save their fallen comrades by saving(attacking) their wisp spirits in the center(pen). Sheeps build farms in patterns to avoid being caught. If sheeps can outlast the wolves, then the sheep team wins.<sup>[2]</sup> Most sheep tags last no more than 20 minutes and a full game usually conosists of 8 sheep and 4 wolves. There are also certain maps that offer a more challenging 6 vs 6 set up.
+
+[http://www.sheeptag2.com/history/east.html HiSTory of East]
+
+== Game Play ==
+
+=== '''<u>Units</u>''' ===
+'''Sheep''' can build different farms to avoid being tagged by the Shepherds. The Sheep have a normal farm that is used as the primary structure to build as defense. Aside from the normal farm, there are various other types of farms. These farms can be built in different patterns to maximize the effectiveness of the defense. When a Sheep is captured by a Shepherd, they are immediately sent to the pen as a Sheep spirit. If all Sheep are tagged before the time limit, then Sheep lose. If the Sheep can outlast the Shepherds for the round time, then the Sheep win.
+
+'''Shepherds''' must send all the Sheep to the pen, before the timer runs out. The Shepherds must attack the Sheep to gather them into the pen. These Shepherds must also guard the pen from the other Sheep because the Sheep will try to revive their comrades. The Shepherds have a variety of items, and techniques to capture all the sheep.
+
+'''Sheep Spirits''' are the spirit to a Sheep that has been tagged and sent to the pen. These Sheep spirits are bound to the pen, but they can be revived as a Sheep again if they are saved by an ally. A good Sheep spirit, will continue to play and make callouts of Shepherd positions, isolations, and other things their living allies might not be able to see. They will also move as close to the edge of the pen as they can for an easier save.
+
+'''Golems''' are units that summoned by the Shepherd, and can be controlled by the owner of the summoning Shepherd. Golems are generally much slower than Shepherds, and do not deal as much damage. They can tag a Sheep, and have various strategic uses.
+
+'''Bombers''' are called down by the Shepherd, and can destroy trees that Sheep may try to hide in. <s>They may be used to block ramps, or pathways sheep may choose, forcing the Sheep to take a different path until the spawned bomber dies off.</s> Bombers deal damage to farms they hit, but can not kill Sheep. Bombers are an AOE attack for Shepherds, but they can not be controlled once summoned, and typically die off instantly.
+
+'''Wards or eye-sticks''', are summoned by the Shepherd’s and provide sight to an area of the map, for a specified amount of time. They can see invisible units, and can be destroyed by Sheep. They themselves are invisible, can not move, and die off once their time runs out.<br />
+
+
+=== '''<u>Terminology</u>''' ===
+'''Pen''' - A fenced in area with typically 4 openings. The pen is where Sheep spirits are sent. If a Sheep spirit attempts to leave the pen they are teleported back to the center.
+
+'''Saving''' - When a Sheep revives a Sheep spirit by reaching the pen and attacking the Sheep spirit until the Sheep spirit dies, the Sheep spirit has been ‘saved’. This usually involves Sheep leaving their defensive base to run to the pen. This must be done discreetly to avoid being attacked by the wolf. If a Sheep is successful at saving a Sheep spirit, then the reviving Sheep can participate in the Sheep Tag battle once again.
+
+'''Double Save''' - When two Sheep attempt to save 2 wisps at the same time on opposite sides of the pen, and the guarding Shepherd is forced to let up a save, or sometimes both if the Shepherd panics.
+
+'''Massing''' - Building lots of farms.
+
+'''Grid''' - Massing in a grid like fashion.
+
+'''Misbuild''' - MB for short. Is when a farm is placed off the grid. Sheep can either take the time to fix it or continue massing.
+
+'''Map Grid''' - Standard farm placement based on the map, so every player's farms link together in a proper grid.
+
+'''Sidey Grid''' - Chaotic, and unorderly farm placement. Named after a player who misbuilt a lot.
+
+'''Diamond Grid''' - Building farms in a diamond shape. When done correctly you can cover ground twice as fast, but you are more exposed.
+
+'''Honeycomb Grid''' - Just a fun way to build farms in a honeycomb fashion. Looks cool, but super dangerous. A very show-offy grid if you are dominating.
+
+'''Corner Massing''' - Massing safely away from the action. It is generally good to have 1-2 Sheep corner massing so you have tons of farms, but they need to know when to help. People will typically get bashed for being a ‘corner masser’ and not helping allies.
+
+'''Harassing''' - The Sheep is in the shepherd's face. Building farms behind him around him. Just distracting him in general. This is basically the opposite of being a corner masser. A good harasser will allow the Corner Massers to pile up the farms.
+
+'''Farm Denying''' - The Sheep can deny Shepherds experience and gold by destroying their own damaged farm before a Shepherd gets the last hit on it.
+
+'''Filling''' - Re-building farms that were once there, but were destroyed.
+
+'''Iso''' - A Sheep is in a mass that is cut off from the rest of the team. Generally this means the Sheep needs help asap.
+
+'''Bridge''' - When a Sheep is isolated, an ally can ‘bridge’ the isolated Sheep back into the main group mass.
+
+'''Jump''' - When a Sheep builds a farm on-top of themselves the farm ‘jumps’ the Sheep to a new location. The max ‘jump’ range before a Sheep just gets covered by the farm is 8 farms. Also, a Sheep can not jump up hill.
+
+'''Runtag''' - RT for short. A Sheep has no mass around them. They are simply running in the open building farms on the fly trying to slow down the Shepherd’s. This generally happens when a Sheep gets isolated and just makes a run for it. Runtag is the most adrenaline rushing part of the game.
+
+'''Back Build''' - BB for short. When a Sheep is runtagging and builds a farm behind them it is considered a Back Build.
+
+'''Front Build''' - FB for short. When a Sheep is runtagging and builds a farm in front of them it is considered a Front Build. It’s hard to explain the usefulness of a Front Build, but basically it deals with how hills, positioning, and jumping can be used in conjunction for some fancy mechanics.
+
+'''Juking''' - To understand Juking you must understand that a Shepherd can not catch a running Sheep by simply targeting/clicking it. The Shepherd must click ahead of the Sheep to catch up to it, and then once next to it click the Sheep to kill it.  So while the Shepherd is clicking ahead of the Sheep, the Sheep can ‘juke’ backwards to throw off the Shepherd. A proper juke typically ensues lots of laughter.
+* [https://www.youtube.com/watch?v=CHz4J31SLZk&t=0m16s Here’s a hilarious example of 2 nice Jukes back-to-back.]
+<nowiki> </nowiki>A good Shepherd team would have a ‘lead’ and a ‘target’ Shepherd. One trying to get ahead of the Sheep and one that’s targeting in case the Sheep jukes.
+
+'''Blind Juke''' - Like a juke, a blind juke involves a Sheep being chased. Except the Sheep wonders overtop a hill or another area that the Shepherd does not have vision of. The Sheep then cuts back immediately upon leaving the Shepherd’s vision, while the Shepherd has little to no time to react.
+
+'''Magoo Flip''' - When a Sheep destroys its own farm so it can run over top of it. Usually used in conjunction with juking.
+
+'''Shoop Roulette''' - when a sheep is running and builds a single farm, spinning around it while the wolf chases it the same way it did.
+
+'''Block''' - When a Sheep blocks a pathway with a single or a couple farms, that results in the Shepherd having to either run all the way around a large terrain feature of the map to get to the Sheep, or destroy the farm in front of them.
+
+'''Trap''' - When a Shepherd is blocked in by farms or terrain on all sides, and is forced to kill a farms to get out.
+
+'''Miss''' - Shepherd’s have a max range, and they also have an attack delay on their backswing. If a Sheep manages to jump outside the Shepherd’s max range, before the backswing has completed. The result is a ‘miss’.
+
+'''Range or Extendo''' - When a Shepherd tags a Sheep from what appears to be outside the Shepherd’s max range, the Sheep will typically cry out yelling ‘range’.
+
+'''Golem Jump''' - If a Shepherd positions themselves correctly against a farm or piece of terrain, they can summon a golem and ‘jump’ over the farm or terrain. When used correctly this can result in a deadly surprise for the Sheep.
+
+'''Mirror Jump''' - If a Shepherd positions themselves correctly against a farm or piece of terrain, they can mirror image and resulting in either themselve or their mirror to ‘jump’ over the farm or terrain. When used correctly this can result in a deadly surprise for the Sheep.
+* [https://www.youtube.com/watch?v=MFRge0oQl9U&t=0m20s Here’s an example of a Shepherd landing a successful mirror jump 3 times in a row.]
+'''Redirect''' - When a Shepherd mirror images, or summons a golem the generally prioritize the Sheep right away. The Sheep however, can redirect that initial focus from the Shepherd or Golem, by attacking a friendly farm. When the Sheep attacks a friendly the Shepherd or Golem no longer see the Sheep as a threat, resulting in it redirecting it’s attack away from the Sheep.
+* [https://www.youtube.com/watch?v=NcxOep67bHc&t=3m40s Here’s a clear example where the ‘Green Shepherd’ summons a Golem, but then the sheep attacks it’s own farm causing that Golems attack to be redirected.]
+
+* [https://www.youtube.com/watch?v=NcxOep67bHc&t=8m43s Here’s a hilarious example that resulted in a Team kill. A Golem was summoned, and the Red Sheep was the original focus. Red sheep redirected the Golem, and the Golem changed focus to the Teal Sheep.]
+A good Shepherd will control their Golems or Images immediately upon summoning them to avoid a Sheep from redirecting.
+
+'''Sniped''' - When an invisible or unseen Shepherd kills a Sheep. That Sheep was ‘sniped’.
+
+'''1 hit''' - When the Shepherd is able to kill farms in 1 hit.
+
+'''2 hit''' - When the Shepherd is able to kill farms in 2 hits.
+
+'''Last Sheep Standing''' - LSS for short. The intense final moments of a round, where 1 sheep is remaining and either beast most saves everyone or dies like a newb.
+
+== Famous Quotes   ==
+"Magoo, your skills are like my girlfriend - imaginary." - Sidey
+
+"US West used to best in Sheep Tag, then people on other servers started to play." - Shoop
+
+"How do you get Cow to quit Sheep Tag? Make the map round." - Amir
+
+''"BABA"'' - CandyManKiller
+
+"We used to ban noobs at US East, thats why magoogotbanned." - drewisfat
+
+== World Cup ==
+The Sheep Tag World Cup is a single elimination tournament that includes several of the best sheep tag teams from many countries including the United States, Sweden, Belgium, England, Norway, etc. The tournament is usually held over the period of 1-2 months and the winners are known throughout sheep tag as the World Cup champions.
+
+=== 2006 ===
+The first ever Sheep Tag World Cup was established by doom-HaMsTeR from Europe. The teams were organized by countries, with some big countries such as the USA having more than 1 representative team, as well as a general European team for players from smaller countries. The tournament was won by Sweden (IamOnYourSide, Shoop, Losing_Loser and be3r[behh]).
+
+=== 2007 ===
+The second Sheep Tag World Cup was established by MaVERICKShEEP from United States. The format of this tournament was a 12 team entry single elimination bracket. There were no criteria for teammate selection. A team could choose any four players and several substitutes. This World cup inlcuded notable European players such as TheDraperyFalls, Chiefhero[SkS], Shoop, CandyManKiller. The tournament also featured top American players such as CowardlyShoe, GosuSheep, Shroomy, magoogotbanned, and Chakra. The winner was the European Dream Team (Shoop, CandyManKiller, Chiefhero[SkS] and TheDraperyFalls + sub (be3r[behh]).
+
+
+
+=== 2008 ===
+The third Sheep Tag World Cup was set up by MaVERICKShEEP and Gosusheep from United States. The format of this tournament was an eight team round robin tournament where the final four teams advanced into a single elimination tournament. The finals included a heavily anticipated duel match between the top European Team (Cookie and the Legends) and the top US East Team (Team Cross). The winner was the Team Cross led by Drewisfat.
+
+It should be noted that the best Europeans split up in two different teams as requested by Americans because they were considered too superior, and that in the final round the Europeans cheated and had one of their players swapped out for one of the aforementioned superior players, but use the swapped out player's username, but Team Cross won regardless.
+
+=== 2009 ===
+The fourth Sheep Tag World Cup ran by Lovee, magoogotbanned and Celestial_One followed similar formats in past years and maintained the same web server as the past world cup tournaments. The tournament featured eight teams with the final four teams playing in a single elimination tournament. This year featured a US East vs US West final where the US East team won. The US East team consisted of magoogotbanned, drewisfat, Master-SheP, Celestial_One, Philosophize, 14_will14, wanna-be-sheep, XXXandBEER, and duncan(donuts).
+
+It should be noted that half the USA (East coast) beat the entire continent of Europe.
+
+== Battle Of The Realms ==
+
+=== 2009 ===
+The Battle Of The Realms was a tournament created and ran by Lovee with the help of GosuSheep. It consisted of 2 teams from each Realm (Northrend, Azeroth and Lordaeron) competing to prove which realm was the best at Sheep Tag. It was a 7 team competition (2 teams from each realm and 1 Australian based team) with a round-robin tournament structure. It was considered a more successful sheep tag tournament because the level of the teams were very close which created great competition. The final of the BotR 2009 was between USWest - lead by GosuSheep and USEast - lead by drewisfat. It was a extremely close match which went into over-time which USEast then snatched the victory.
+
+== Legend's Gauntlet Tournament ==
+
+=== 2009/2010 ===
+The Legend's Gauntlet Tournament was organised by MaVERICKShEEP from United States. The tournament included a bunch of games such as DotA and ladder with as cream of the crop a final Sheep Tag match to decide the champions. The format was with merely two teams who each had 2 captains. Team Sheep was led by Magoogotbanned and Nightmare[behh] whereas Team Shepherd was led by Chiefhero[SkS] and celestial_one. The Sheeptag match, and with that the tournament, was won by Team Sheep. Team Sheep, represented by Magoogotbanned, Chaiserae[behh], Nightmare[behh], greatlakes[behh] & Twix-Club[behh], beat Team Shepherd, represented by Chiefhero[SkS], Shoop.osa, drewisfat, Celestial_One, XXXandBEER & Exalius.
+
+== Corona Classic ==
+
+=== 2020 ===
+The first-ever Sheep Tag Corona Classic took place April 11th, 2020. Named after the deadly COVID-19 virus that forced many people into quarantine and back into playing Sheep Tag. The Corona Classic was a 2v4 Sheep Tag tournament hosted by XXXandBEER. 24 players play individually in FFA-like matches and qualify for the next round based on a point system. The games were all played on Warcraft 3 Reforged Americas server. The finalist were XXXandBEER, Demon, Nmcdo, bahlamsa, eenz, and Deadlysheep. With XXXandBEER taking 1st place, Demon taking 2nd place, and Nmcdo taking 3rd place. For a full list of matches, participants, replays, and more visit: https://drive.google.com/open?id=1x6QLbrCiecNPjfIEPh4qEVoD4R_PMSoj67iPQbeUQk8
+
+This was the first Sheep Tag tournament with a prize pool. The prize pool totaled $150.00 USD.
+
+== Captains Tournament ==
+
+=== 2020 ===
+The first-ever Sheep Tag Captains Tournament was organized and hosted by XXXandBEER; it took place on May 2nd, 2020. The tournament was a 5v5 format, similar to the classic STWC. A major difference between the Captains Tournament and the STWC is that it involved Captains drafting and bidding for players, as opposed to teams forming whatever dream team they would like. For this Captains tournament, we had four Captains who took turns bidding and drafting players on April 26th, 2020. The results were the following teams: https://drive.google.com/open?id=153vDmQzqaqdCPFBeB-RW5n3QQtQ1a8yqF32LA8YmG4k
+
+The winning Captain was Eenz, whose team consisted of Jefferson928, Bahlamsa, Hair, Nomapgrid, and C0nfidence. They beat Captain Deadlysheep in Game 5 of a Best 3 out of 5 Finals match. For more information visit the tournament page: https://www.toornament.com/en_US/tournaments/3519175650312331264/information
+
+The winning Captain received a [https://imgur.com/a/QOjfVGw Sheep Tag Trophy] courtesy of Sheep Tagger Zhall.[[Category:Browse]]
